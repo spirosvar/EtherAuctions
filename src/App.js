@@ -14,6 +14,7 @@ class App extends React.Component {
   };
 
   async componentDidMount() {
+    document.title = "EtherAuctions";
     try {
       await window.ethereum.request({ method: "eth_requestAccounts" });
 
