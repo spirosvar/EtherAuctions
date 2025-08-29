@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EtherAuctions/static/css/main.073c9b0a.css",
+    "main.js": "/EtherAuctions/static/js/main.d5eff632.js",
+    "static/js/787.0c3f432a.chunk.js": "/EtherAuctions/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/EtherAuctions/index.html",
+    "main.073c9b0a.css.map": "/EtherAuctions/static/css/main.073c9b0a.css.map",
+    "main.d5eff632.js.map": "/EtherAuctions/static/js/main.d5eff632.js.map",
+    "787.0c3f432a.chunk.js.map": "/EtherAuctions/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d5eff632.js"
+  ]
+}
