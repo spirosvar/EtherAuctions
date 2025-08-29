@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EtherAuctions/static/css/main.073c9b0a.css",
-    "main.js": "/EtherAuctions/static/js/main.136a2a3d.js",
+    "main.css": "/EtherAuctions/static/css/main.69a669e4.css",
+    "main.js": "/EtherAuctions/static/js/main.33c88b52.js",
     "static/js/787.0c3f432a.chunk.js": "/EtherAuctions/static/js/787.0c3f432a.chunk.js",
     "index.html": "/EtherAuctions/index.html",
-    "main.073c9b0a.css.map": "/EtherAuctions/static/css/main.073c9b0a.css.map",
-    "main.136a2a3d.js.map": "/EtherAuctions/static/js/main.136a2a3d.js.map",
+    "main.69a669e4.css.map": "/EtherAuctions/static/css/main.69a669e4.css.map",
+    "main.33c88b52.js.map": "/EtherAuctions/static/js/main.33c88b52.js.map",
     "787.0c3f432a.chunk.js.map": "/EtherAuctions/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.136a2a3d.js"
+    "static/css/main.69a669e4.css",
+    "static/js/main.33c88b52.js"
   ]
 }
