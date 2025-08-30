@@ -1,9 +1,9 @@
 import web3 from "./web3";
-import artifact from "./ABI/Lottery.json";
+import artifact from "./ABI/AuctionFactory.json";
 
 const { address, abi } = artifact;
 
-const lottery = new web3.eth.Contract(abi, address);
+const auctionFactory = new web3.eth.Contract(abi, address);
 
 export async function assertLotteryReady() {
   const EXPECTED = 11155111; // Sepolia
@@ -19,4 +19,4 @@ export async function assertLotteryReady() {
   }
 }
 
-export default lottery;
+export default auctionFactory;
